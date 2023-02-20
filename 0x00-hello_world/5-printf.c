@@ -1,7 +1,7 @@
-# include <stdio.h>
+#include <stdio.h>
 /**
- *  main - A program that prints a line
- *  Return: 0
+ * main - A program that prints a line using printf funtion
+ * Return: 0
  */
 int main(void)
 {
